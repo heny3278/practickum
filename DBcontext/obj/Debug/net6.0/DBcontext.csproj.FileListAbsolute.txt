@@ -1,0 +1,54 @@
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\DBcontext.deps.json
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\DBcontext.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\DBcontext.pdb
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\repositories.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\repositories.pdb
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.csproj.AssemblyReference.cache
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.AssemblyInfoInputs.cache
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.AssemblyInfo.cs
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.csproj.CoreCompileInputs.cache
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.csproj.CopyComplete
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\refint\DBcontext.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.pdb
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\ref\DBcontext.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\DBcontext.runtimeconfig.json
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\EFCoreSqlServerNetTopologySuite.cs
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.genruntimeconfig.cache
+F:\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\DBcontext.deps.json
+F:\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\DBcontext.runtimeconfig.json
+F:\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\DBcontext.dll
+F:\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\DBcontext.pdb
+F:\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\repositories.dll
+F:\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\repositories.pdb
+F:\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.csproj.AssemblyReference.cache
+F:\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.GeneratedMSBuildEditorConfig.editorconfig
+F:\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.AssemblyInfoInputs.cache
+F:\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.AssemblyInfo.cs
+F:\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.csproj.CoreCompileInputs.cache
+F:\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\EFCoreSqlServerNetTopologySuite.cs
+F:\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.csproj.CopyComplete
+F:\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.dll
+F:\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\refint\DBcontext.dll
+F:\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.pdb
+F:\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.genruntimeconfig.cache
+F:\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\ref\DBcontext.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\DBcontext.deps.json
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\DBcontext.runtimeconfig.json
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\DBcontext.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\DBcontext.pdb
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\repositories.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\bin\Debug\net6.0\repositories.pdb
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.csproj.AssemblyReference.cache
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.AssemblyInfoInputs.cache
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.AssemblyInfo.cs
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.csproj.CoreCompileInputs.cache
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.csproj.CopyComplete
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\refint\DBcontext.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.pdb
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\DBcontext.genruntimeconfig.cache
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\DBcontext\obj\Debug\net6.0\ref\DBcontext.dll

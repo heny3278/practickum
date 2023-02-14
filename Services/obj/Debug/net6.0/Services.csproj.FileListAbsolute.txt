@@ -1,0 +1,57 @@
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\bin\Debug\net6.0\Services.deps.json
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\bin\Debug\net6.0\Services.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\bin\Debug\net6.0\Services.pdb
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\bin\Debug\net6.0\Common.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\bin\Debug\net6.0\DBcontext.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\bin\Debug\net6.0\repositories.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\bin\Debug\net6.0\Common.pdb
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\bin\Debug\net6.0\DBcontext.pdb
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\bin\Debug\net6.0\repositories.pdb
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\obj\Debug\net6.0\refint\Services.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.pdb
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\Services\obj\Debug\net6.0\ref\Services.dll
+F:\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.dll
+F:\פרטיקום\pratickum\Services\obj\Debug\net6.0\refint\Services.dll
+F:\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.pdb
+F:\פרטיקום\pratickum\Services\bin\Debug\net6.0\Services.deps.json
+F:\פרטיקום\pratickum\Services\bin\Debug\net6.0\Services.dll
+F:\פרטיקום\pratickum\Services\bin\Debug\net6.0\Services.pdb
+F:\פרטיקום\pratickum\Services\bin\Debug\net6.0\Common.dll
+F:\פרטיקום\pratickum\Services\bin\Debug\net6.0\DBcontext.dll
+F:\פרטיקום\pratickum\Services\bin\Debug\net6.0\repositories.dll
+F:\פרטיקום\pratickum\Services\bin\Debug\net6.0\Common.pdb
+F:\פרטיקום\pratickum\Services\bin\Debug\net6.0\DBcontext.pdb
+F:\פרטיקום\pratickum\Services\bin\Debug\net6.0\repositories.pdb
+F:\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+F:\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+F:\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+F:\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+F:\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+F:\פרטיקום\pratickum\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\bin\Debug\net6.0\Services.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\bin\Debug\net6.0\Common.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\bin\Debug\net6.0\DBcontext.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\bin\Debug\net6.0\repositories.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\bin\Debug\net6.0\Common.pdb
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\bin\Debug\net6.0\DBcontext.pdb
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\bin\Debug\net6.0\repositories.pdb
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\Services\obj\Debug\net6.0\ref\Services.dll

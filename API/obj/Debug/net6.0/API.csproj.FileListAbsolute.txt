@@ -1,0 +1,277 @@
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\appsettings.json
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\API.exe
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\API.deps.json
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\API.runtimeconfig.json
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\API.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\API.pdb
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\AutoMapper.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Azure.Core.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Common.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\DBcontext.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\repositories.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Services.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Common.pdb
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Services.pdb
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\DBcontext.pdb
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\repositories.pdb
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\obj\Debug\net6.0\API.csproj.CopyComplete
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\obj\Debug\net6.0\API.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\obj\Debug\net6.0\refint\API.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\obj\Debug\net6.0\API.pdb
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\obj\Debug\net6.0\ref\API.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\LinqKit.Core.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\LinqKit.Microsoft.EntityFrameworkCore.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\NetTopologySuite.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\API\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\API.dll
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\refint\API.dll
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\API.pdb
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\appsettings.Development.json
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\appsettings.json
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\API.exe
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\API.deps.json
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\API.runtimeconfig.json
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\API.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\API.pdb
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\AutoMapper.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Azure.Core.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Azure.Identity.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\LinqKit.Core.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\LinqKit.Microsoft.EntityFrameworkCore.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\NetTopologySuite.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Memory.Data.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Common.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\DBcontext.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\repositories.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Services.dll
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Common.pdb
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\Services.pdb
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\DBcontext.pdb
+F:\פרטיקום\pratickum\API\bin\Debug\net6.0\repositories.pdb
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\staticwebassets.pack.json
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\staticwebassets.build.json
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\staticwebassets.development.json
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\API.csproj.CopyComplete
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+F:\פרטיקום\pratickum\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\appsettings.json
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\API.exe
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\API.deps.json
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\API.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\API.pdb
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\LinqKit.Core.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\LinqKit.Microsoft.EntityFrameworkCore.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\NetTopologySuite.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Common.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\DBcontext.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\repositories.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Services.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Common.pdb
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\Services.pdb
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\DBcontext.pdb
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\bin\Debug\net6.0\repositories.pdb
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\API.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\API.pdb
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\API\obj\Debug\net6.0\ref\API.dll

@@ -1,0 +1,42 @@
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\pratickum\bin\Debug\net6.0\repositories.deps.json
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\pratickum\bin\Debug\net6.0\repositories.runtimeconfig.json
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\pratickum\bin\Debug\net6.0\repositories.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\pratickum\bin\Debug\net6.0\repositories.pdb
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.csproj.AssemblyReference.cache
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.AssemblyInfoInputs.cache
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.AssemblyInfo.cs
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.csproj.CoreCompileInputs.cache
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\refint\repositories.dll
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.pdb
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.genruntimeconfig.cache
+Y:\Groups\2\איתן הני חיה\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\ref\repositories.dll
+F:\פרטיקום\pratickum\pratickum\bin\Debug\net6.0\repositories.deps.json
+F:\פרטיקום\pratickum\pratickum\bin\Debug\net6.0\repositories.runtimeconfig.json
+F:\פרטיקום\pratickum\pratickum\bin\Debug\net6.0\repositories.dll
+F:\פרטיקום\pratickum\pratickum\bin\Debug\net6.0\repositories.pdb
+F:\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.csproj.AssemblyReference.cache
+F:\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.AssemblyInfoInputs.cache
+F:\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.AssemblyInfo.cs
+F:\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.csproj.CoreCompileInputs.cache
+F:\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.dll
+F:\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\refint\repositories.dll
+F:\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.pdb
+F:\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.genruntimeconfig.cache
+F:\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\ref\repositories.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\pratickum\bin\Debug\net6.0\repositories.deps.json
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\pratickum\bin\Debug\net6.0\repositories.runtimeconfig.json
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\pratickum\bin\Debug\net6.0\repositories.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\pratickum\bin\Debug\net6.0\repositories.pdb
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.csproj.AssemblyReference.cache
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.AssemblyInfoInputs.cache
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.AssemblyInfo.cs
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.csproj.CoreCompileInputs.cache
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\refint\repositories.dll
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.pdb
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\repositories.genruntimeconfig.cache
+C:\Users\הני איתן\Desktop\פרטיקום\pratickum\pratickum\obj\Debug\net6.0\ref\repositories.dll
